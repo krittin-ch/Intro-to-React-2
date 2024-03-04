@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Intro-to-React-2
+
+This project is the introduction to React library and you can find the project [Tutorial: Tic-Tac-Toe](https://react.dev/learn)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
